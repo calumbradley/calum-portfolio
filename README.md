@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Calum Bradley - Portfolio Website
 
-## Getting Started
+Welcome to my personal portfolio website! Here, you'll find a glimpse into my world—a fusion of coding, football fandom, outdoor adventures, and everything in between.
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm Calum Bradley, a 32-year-old enthusiast with a passion for technology, sports, and the great outdoors. By day, I'm a coding wizard, crafting elegant solutions to complex problems. By night, I'm a fervent football fan, cheering on my favorite teams with unwavering enthusiasm. And when I'm not immersed in the digital or sports world, you'll likely find me hitting the trails with my faithful companion, Chester, by my side.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What You'll Find Here
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Projects
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Explore my coding projects, ranging from innovative web applications to creative software solutions. Each project showcases my skills and interests, demonstrating my ability to tackle diverse challenges with creativity and precision.
 
-## Learn More
+### Contact
 
-To learn more about Next.js, take a look at the following resources:
+Get in touch! Whether you want to collaborate on a project, chat about football, or share hiking recommendations, I'd love to hear from you.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Email: [calumbradley@icloud.com](mailto:calumbradley@icloud.com)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Get Connected
 
-## Deploy on Vercel
+Stay updated on my latest projects, blog posts, and adventures by following me on social media:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [LinkedIn](https://www.linkedin.com/in/calumbradley/)
+- [GitHub](https://github.com/calumbradley)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thanks for stopping by! I hope you enjoy exploring my portfolio as much as I've enjoyed creating it.
+
+Calum Bradley
