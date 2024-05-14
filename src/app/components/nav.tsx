@@ -5,7 +5,7 @@ const navItems = {
     name: "home",
   },
   "mailto:calumbradley@icloud.com": {
-    name: "Contact me",
+    name: "contact me",
   },
 };
 
