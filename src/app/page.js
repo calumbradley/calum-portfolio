@@ -12,8 +12,6 @@ export default function Page() {
         {`And of course, there's Chester, my loyal Cocker Spaniel who's always by my side, ready for our next adventure. Whether we're exploring new trails or just enjoying a lazy day in the park, he's my constant companion and source of endless joy.`}
       </p>
 
-      <p className="mb-4">{`So, while I may not lace up my boots and step onto the pitch myself, there's nothing I enjoy more than cheering on my favorite teams from the comfort of my living room. From tactical masterclasses to heart-stopping moments of brilliance, football never fails to captivate me.`}</p>
-
       <p className="mb-4">
         {`Join me as I navigate the thrilling world of coding, the excitement of football fandom, and the serenity of outdoor exploration, all with Chester leading the way.`}
       </p>
