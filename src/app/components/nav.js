@@ -4,7 +4,7 @@ const navItems = {
   "/": {
     name: "home",
   },
-  "mailto:calumbradley@icloud.com": {
+  "mailto:cal@calumbradley.dev": {
     name: "contact",
   },
 };

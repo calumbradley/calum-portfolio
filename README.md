@@ -16,7 +16,7 @@ Explore my coding projects, ranging from innovative web applications to creative
 
 Get in touch! Whether you want to collaborate on a project, chat about football, or share hiking recommendations, I'd love to hear from you.
 
-- Email: [calumbradley@icloud.com](mailto:calumbradley@icloud.com)
+- Email: [cal@calumbradley.dev](mailto:cal@calumbradley.dev)
 
 ## Get Connected
 
